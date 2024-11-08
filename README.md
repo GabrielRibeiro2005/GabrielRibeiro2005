@@ -1,6 +1,6 @@
 ![img](https://i.pinimg.com/originals/bc/52/89/bc5289522019b7f2ed2eaea1468f994d.gif)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kode+Mono&pause=1000&color=F7F7F7&center=True&random=false&width=435&lines=Hello+Dev's,+Bem-vindo+ao+meu+perfil;Meu+nome+é+Gabriel+Ribeiro;Eu+tenho+19+anos;Sou+da+Paraíba,Brasil;I+study+Computer+Science)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kode+Mono&pause=1000&color=F7F7F7&center=True&random=false&width=435&lines=Olá+Dev's,+Bem-vindo+ao+meu+perfil;Meu+nome+é+Gabriel+Ribeiro;Eu+tenho+19+anos;Sou+da+Paraíba,Brasil;I+study+Computer+Science)](https://git.io/typing-svg)
 
 ![GabrielRibeiro2005 GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielRibeiro2005&show_icons=true&theme=transparent&text_color=FFFFFF)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielRibeiro2005&layout=compact&text_color=FFFFFF&theme=transparent&hide=jupyter%20notebook)
 
